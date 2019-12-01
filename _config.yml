@@ -1,11 +1,6 @@
-remote_theme: thelehhman/plainwhite-jekyll
+theme: 
+  
+title: Green Thumb
+description: CPSC 481 Human Computer Interaction Term Project in User Centered Design
 
-plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
-  date_format: "%b %-d, %Y"
 
-  social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman # format: locale/username
