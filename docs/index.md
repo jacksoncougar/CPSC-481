@@ -1,3 +1,9 @@
+---
+title: Index
+author: Jackson Cougar Wiebe
+layout: default
+---
+
 # CPSC Team Project
 
 members:
@@ -7,7 +13,7 @@ members:
 - Rory Skipper
 - Jack Wiebe
 
-# Phase 1
+# Phase I - Ideation
 
 ## Green Thumb
 The idea is an Android/iOS mobile application that functions as a gardening assistant. The app will utilize the full functionality of a modern smartphone to enable even the most green (pun intended) gardener to start and maintain a beautiful home garden, whatever that home may look like. The need for increased urban biodiversity is clear. Converting concrete to greenspace and monoculture lawns to diverse gardens promotes the health of bee populations, takes CO2 out of the atmosphere, and helps keep cities cool (literally). We already see a trend in this direction with new office towers and condos covered in trees and some cities replacing parking lots with parks. However, many more regular citizens will need to participate for this trend to make an impact. But keeping plants alive is not always so easy for the inexperienced, which is where Green Thumb comes in. The app will use the phone’s location data to determine the range of appropriate plants based on temperature, sunshine, and rainfall which is further refined by the answers to a few simple questions to the user, such as area available for planting and the orientation of the garden for sunshine. The user can select the desired plants from this range and the app will provide instructions on how to plant and even provide links for the purchase of the plants and needed extras (soil, watering can, plant food, etc.). Helpful instructional videos and friendly reminders to water will ensure that an amateur gardener can’t go wrong. 

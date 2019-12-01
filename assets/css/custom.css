@@ -1,0 +1,26 @@
+.callout > li {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  grid-template-areas: "text image";
+}
+
+.callout > li p {
+  grid-area: text;
+}
+
+.callout > li p:nth-child(even) {
+  grid-area: image;
+}
+
+.callout img {
+  max-width: 400px;
+  max-height: 300px;
+}
+
+.pdfviewer {
+  top: 0;
+  position: sticky;
+  width: 100%;
+  height: 100vh;
+}
