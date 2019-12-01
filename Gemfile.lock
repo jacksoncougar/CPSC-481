@@ -212,6 +212,8 @@ GEM
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
+    plainwhite (0.5.0)
+      jekyll (~> 3.8)
     public_suffix (3.1.1)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
@@ -245,7 +247,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll
-  jekyll-theme-cayman
+  plainwhite
 
 BUNDLED WITH
    2.0.2

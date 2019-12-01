@@ -299,6 +299,36 @@ out ideas though.
 
 ## Sketches
 
+  <div class="masonry-wrapper"><div class="masonry">
+  <div class="masonry-item">
+    <img src="assets/2019-12-01-15-34-35.png" alt="Dummy Image" class="masonry-content">
+  </div>
+  <div class="masonry-item">
+    <img src="assets/2019-12-01-15-34-47.png" alt="Dummy Image" class="masonry-content">
+  </div>
+  <div class="masonry-item">
+    <img src="assets/2019-12-01-15-35-06.png" alt="Dummy Image" class="masonry-content">
+  </div>
+  <div class="masonry-item">
+    <img src="assets/2019-12-01-15-35-45.png" alt="Dummy Image" class="masonry-content">
+  </div>
+  <div class="masonry-item">
+    <img src="assets/2019-12-01-15-35-58.png" alt="Dummy Image" class="masonry-content">
+  </div>
+  <div class="masonry-item">
+    <img src="assets/2019-12-01-15-36-12.png" alt="Dummy Image" class="masonry-content">
+  </div>
+  <div class="masonry-item">
+    <img src="assets/rory sketch.jpg" alt="Dummy Image" class="masonry-content">
+  </div>
+  <div class="masonry-item">
+    <img src="assets/rory sketch 2.jpg" alt="Dummy Image" class="masonry-content">
+  </div>
+  <div class="masonry-item">
+    <img src="assets/lynn sketches.jpeg" alt="Dummy Image" class="masonry-content">
+  </div>
+</div>
+
 ![](assets/2019-12-01-15-34-35.png)
 ![](assets/2019-12-01-15-34-47.png)
 ![](assets/2019-12-01-15-35-06.png)
@@ -313,4 +343,3 @@ out ideas though.
 [see TCD walkthrough.](docs\tcd.html)
 
 # Phase 4
-
