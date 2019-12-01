@@ -51,11 +51,45 @@ The app will help users select which plants to grow based on geolocation and res
 
 ### Extreme User Interviews
 
-Interviews were conducted with gardeners from all ranges of age and experience. We learned a lot about what gardeners consider important such as growing organic foods, using fewer chemical fertilizers, or getting schedules for when to harvest from their garden. These extreme user interviews highlighted the difference between those who didn’t garden in the past (or had very little experience) and those who were more knowledgeable. Something that was really interesting to note from the expert gardeners was that they aim to only plant things that feed the bees or the birds. This is to help support the ever-lowering bee population which people aren’t paying enough attention to. This and a couple other things like annual vs perennial plants and which plants like fertilizer helped us to better understand what information our app could help beginner gardeners with. Especially in the process of placing plants, our app could show in the virtual garden the radius in which the plant will eventually grow to, so that gardeners won’t mistakenly grow plants too close to one another.
+Interviews were conducted with gardeners from all ranges of age and experience. We learned a lot about what gardeners consider important such as growing organic foods, using fewer chemical fertilizers, or getting schedules for when to harvest from their garden.
+
+These extreme user interviews highlighted the difference between those who didn’t garden in the past (or had very little experience) and those who were more knowledgeable. Something that was really interesting to note from the expert gardeners was that they aim to only plant things that feed the bees or the birds. This is to help support the ever-lowering bee population which people aren’t paying enough attention to. This and a couple other things like annual vs perennial plants and which plants like fertilizer helped us to better understand what information our app could help beginner gardeners with. Especially in the process of placing plants, our app could show in the virtual garden the radius in which the plant will eventually grow to, so that gardeners won’t mistakenly grow plants too close to one another.
+
+- A interview
+
+  <audio controls source src="assets\clips\ben-interview.mp3">
+  <p>Your browser does not support the audio element.</p>
+  </audio>
+
+- B interview
+
+  <audio controls source src="assets\clips\Bonnie Interview - Expert.mp3">
+  <p>Your browser does not support the audio element.</p>
+  </audio>
+
+- C interview
+
+  <audio controls source src="assets\clips\Kathy Interview - Intermediate.mp3">
+  <p>Your browser does not support the audio element.</p>
+  </audio>
+
+- D interview
+
+  <audio controls source src="assets\clips\matt-interview.mp3">
+  <p>Your browser does not support the audio element.</p>
+  </audio>
+
+- E interview
+
+  <audio controls source src="assets\clips\micah-interview.mp3">
+  <p>Your browser does not support the audio element.</p>
+  </audio>
 
 ### Survey
 
 A survey was conducted of potential app users. The use of a survey was justified as it is a cheap, uniform way to get some important basic data about prospective users. The survey was shared online with one set of questions for respondents indicating no gardening experience and another set of questions for those indicating some gardening experience. Both groups identified lack of knowledge and forgetting to care for plants as the biggest obstacles, but non-experienced gardeners also thought lack of time would be a hurdle as well. These are all areas where our app would help. Both groups thought gardening is/would be not easy and are only willing to spend a small amount of money or time on the activity, although most did express an interest in an app that could help them with growing plants.
+
+[see survey results](docs/survey-results.html#content)
 
 ### Competitive Analysis IDEO method
 
@@ -83,11 +117,11 @@ While these apps all offer some of the features we believe should make up a prop
 
 ### Try It Yourself IDEO method
 
-We used the *Try It Yourself *IDEO research method to gather more insight into what problems the user might have while using a mobile gardening companion app while doing day to day gardening tasks. Towards this end we let one of our researchers do their daily watering while tasked with using their smartphone as a simulation. This research yielded the following insights:
+We used the _Try It Yourself_ IDEO research method to gather more insight into what problems the user might have while using a mobile gardening companion app while doing day to day gardening tasks. Towards this end we let one of our researchers do their daily watering while tasked with using their smartphone as a simulation. This research yielded the following insights:
 
 - When watering plants a large heavy bottle was used that at times takes two hands to pour. It wouldn’t be practicable for somebody to also carry their phone with them while watering. This suggests that any watering tracking/reminder feature needs to happen either before or after the watering has been done, and not during.
 
-- We noticed that some of my plants did not need to be watered each day and were skipped.
+- We noticed that some of the plants did not need to be watered each day and were skipped that day.
 
 - One of the plants has been doing very poorly since it was transplanted a few months ago and the researcher wasn’t sure if it was because it was under/over watered, the soil type was wrong, or if it just needed more fertilizer. An app that can ‘debug’ those questions would be really useful here.
 
@@ -229,4 +263,54 @@ While performing the try it yourself it was hard to imagine how a final mobile a
     <td>Routine</td>
   </tr>
 </table>
+
+# Phase 3 - Creating a low-fidelity prototype
+
+## low fidelity prototype
+
+<iframe width="100%" height="515" src="https://www.youtube-nocookie.com/embed/_4P7GoLHudg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[see lo-fi prototype.](docs\lofi-prototype.html)
+
+## Report
+
+<object
+  data="\assets\pdfs\Deliverable 3 ppt.pdf?#FitH"
+  width="100%"
+  height="520"
+  type="application/pdf"></object>
+
+## Reflections on Ideating and Prototyping
+
+We did brainstorming via sketching. This was a new type of activity for most of our group as we
+don’t come from an art or design background. Initially there was a bit of a block as we wondered
+what we should be sketching. How the app is used? What the layout should be? In the end we
+learned that there is no ‘right’ way to brainstorm and that we should let our minds roam free and
+do many sketches of all aspects of the design.
+The task walkthroughs were a useful way to identify problems in the design once we had
+identified which tasks we wanted our app to allow the user to complete. For example, we
+identified a couple of places where we need to make a tradeoff between having more options on
+one screen (could be cluttered or overwhelming) or have a series of screens with nested options
+(could be confusing).
+The lo-fi prototyping was an enjoyable process and Balsamiq was very easy to use so we didn’t
+run into too many problems. However, we should have had a clearer idea of how we wanted the
+app to be laid out and flow before starting in Balsamiq. Seeing it in Balsamiq did help us refine
+out ideas though.
+
+## Sketches
+
+![](assets/2019-12-01-15-34-35.png)
+![](assets/2019-12-01-15-34-47.png)
+![](assets/2019-12-01-15-35-06.png)
+![](assets/2019-12-01-15-35-45.png)
+![](assets/2019-12-01-15-35-58.png)
+![](assets/2019-12-01-15-36-12.png)
+![](assets/rory sketch.jpg)
+![](assets/rory sketch 2.jpg)
+![](assets/lynn sketches.jpeg)
+
+[see storyboard.](docs\storyboard.html)
+[see TCD walkthrough.](docs\tcd.html)
+
+# Phase 4
 
