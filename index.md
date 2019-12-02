@@ -11,7 +11,7 @@ layout: default
 
 # Executive Summary
 
-The problem that we are trying to design a solution for is how to get people educated and interested in gardening. To better understand this problem, we conducted interviews with with gardeners from all ranges of age and experience, conducted surveys, and performed our own try-it-yourself research. From our findings we found that most users had very limited time and wanted and app that would be able to teach them new things about gardening. From this research we produced an lo-fi prototype and a high-fi prototype. We received a heuristic evaluation on our high-fidelity prototype that highlighted several problems that we had to fix right away. In the end we produced a very able high-fidelity prototype that showcases our approach to teaching people how to garden.
+The problem that we are trying to design a solution for is how to get people educated and interested in gardening. To better understand this problem, we conducted interviews with with gardeners from all ranges of age and experience, conducted surveys, and performed our own try-it-yourself research. From our findings we found that most users had very limited time and wanted an app that would be able to teach them new things about gardening. From this research we produced an lo-fi prototype and a high-fi prototype. We received a heuristic evaluation on our high-fidelity prototype that highlighted several problems that we had to fix right away. In the end we produced a very able high-fidelity prototype that showcases our approach to teaching people how to garden.
 
 # Design Problem
 
