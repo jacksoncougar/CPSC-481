@@ -11,6 +11,8 @@ layout: default
 
 # Executive Summary
 
+The problem that we are trying to design a solution for is how to get people educated and interested in gardening. To better understand this problem, we conducted interviews with with gardeners from all ranges of age and experience, conducted surveys, and performed our own try-it-yourself research. From our findings we found that most users had very limited time and wanted and app that would be able to teach them new things about gardening. From this research we produced an lo-fi prototype and a high-fi prototype. We received a heuristic evaluation on our high-fidelity prototype that highlighted several problems that we had to fix right away. In the end we produced a very able high-fidelity prototype that showcases our approach to teaching people how to garden.
+
 # Design Problem
 
 The problem that we are trying to design a solution for is how to get people educated and interested in gardening. Not only is gardening great for decreasing stress and general well-being, but by nurturing an interest in nature and growing things we may be able to increase an awareness and respect for nature in society. The current state of the art in mobile apps gives users access to an encyclopedia of knowledge that can be searched on demand. However, the gap here is that there is not enough expert guidance for newcomers who don’t know enough to even know what questions they need answers to!
@@ -430,7 +432,7 @@ out ideas though.
 
     ![](assets/2019-12-01-19-49-41.png)
 
-[Adobe XD high-fidelity prototype](https://xd.adobe.com/view/b0b33424-45c2-44ce-4d53-6a1f7fcbfafb-c682/)
+[Adobe XD high-fidelity prototype](https://xd.adobe.com/view/26323145-283c-4e07-7698-6bc4ba6b76f6-5003/)
 
 
 # Heuristic Evaluation and Findings
@@ -475,7 +477,12 @@ The feedback we received from the heuristic evaluation was very useful and we ha
 
 # Recommendations for Next Iteration of Design
 
-In the next iteration of the design more emphasis needs to be placed on features that we didn't have time to implement:
+We feel that we were quite successful in creating a hi-fi prototype that covered that majority of the functionality that we outlined earlier in the semester and that the aesthetic design is quite close to the professional quality you would see on actual apps on the app store. However, there is still lots of room for improvement so the following areas would be looked at if the design process were carried out through another iteration:
+
+- More user feedback on layout and background design to determine whether it is too busy/cluttered/distracting
+- Adding more functionality to the prototype such as multiple gardens 
+- Adding the ability to create different types of social media posts, not just help posts
+- Augmented reality garden view eg. how would my real world garden look with this plant here?
 
 - In the future we need to implement better teaching aids such as step-by-step guides. Using the phone camera the user could document their progress and receive feedback on how well they did.
 
@@ -484,6 +491,8 @@ In the next iteration of the design more emphasis needs to be placed on features
 - If the social aspects of the app were opened up more we could leverage the skills and knowledge of our expert users to help tutor and teach newcomers to gardeners by implementing rewards for responding to help posts.
 
 # Conclusions
+
+We learned a great deal about the UCD process throughout the semester by completing this project. We had the kernel of an idea at the beginning and through the stages of Investigate, Ideate, Prototype, and Feedback were able to design what we feel is a high quality prototype of a good solution to an important problem.
 
 In the end we produced a high-fidelity prototype that showed that our goal of creating an app to introduce people to gardening was not only possible but readily achievable. Going forward we need to take a step back however and re-evaluate what is important to our users. 
 
