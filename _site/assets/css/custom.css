@@ -30,6 +30,27 @@
   height: 100vh;
 }
 
+fig {
+  font-size: 0.8rem;
+  color: indianred;
+  text-align: center;
+  display: block;
+}
+
+.circle {
+  display: block;
+  margin: auto;
+  clip-path: circle(50% at center);
+  height: 300px;
+  width: 300px;
+  background-image: url("/assets/2019-12-01-19-53-38.png");
+  background-size: cover;
+  overflow: hidden;
+}
+
+.circle > img {
+}
+
 .masonry-wrapper {
   padding: 1.5em;
   max-width: 960px;

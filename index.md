@@ -51,6 +51,9 @@ The app will help users select which plants to grow based on geolocation and res
 
 Interviews were conducted with gardeners from all ranges of age and experience. We learned a lot about what gardeners consider important such as growing organic foods, using fewer chemical fertilizers, or getting schedules for when to harvest from their garden.
 
+![](assets/wcloud.png)
+<fig> Word cloud generated from the transcripts of our interviews </fig>
+
 These extreme user interviews highlighted the difference between those who didn’t garden in the past (or had very little experience) and those who were more knowledgeable. Something that was really interesting to note from the expert gardeners was that they aim to only plant things that feed the bees or the birds. This is to help support the ever-lowering bee population which people aren’t paying enough attention to. This and a couple other things like annual vs perennial plants and which plants like fertilizer helped us to better understand what information our app could help beginner gardeners with. Especially in the process of placing plants, our app could show in the virtual garden the radius in which the plant will eventually grow to, so that gardeners won’t mistakenly grow plants too close to one another.
 
 Below is a listing of recording for all interviews conducted:
@@ -89,7 +92,63 @@ Below is a listing of recording for all interviews conducted:
 
 A survey was conducted of potential app users. The use of a survey was justified as it is a cheap, uniform way to get some important basic data about prospective users. The survey was shared online with one set of questions for respondents indicating no gardening experience and another set of questions for those indicating some gardening experience. Both groups identified lack of knowledge and forgetting to care for plants as the biggest obstacles, but non-experienced gardeners also thought lack of time would be a hurdle as well. These are all areas where our app would help. Both groups thought gardening is/would be not easy and are only willing to spend a small amount of money or time on the activity, although most did express an interest in an app that could help them with growing plants.
 
-[see survey results](docs/survey-results.html#content)
+<div class="masonry-wrapper">
+  <div class="masonry">
+    <div class="masonry-item">
+      <img src="assets/2019-12-01-20-13-55.png" alt="" class="masonry-content" />
+    </div>
+    <div class="masonry-item">
+      <img src="assets/2019-12-01-20-14-12.png" alt="" class="masonry-content" />
+    </div>
+    <div class="masonry-item">
+      <img src="assets/2019-12-01-20-14-23.png" alt="" class="masonry-content" />
+    </div>
+    <div class="masonry-item">
+      <img src="assets/2019-12-01-20-14-32.png" alt="" class="masonry-content" />
+    </div>
+    <div class="masonry-item">
+      <img src="assets/2019-12-01-20-14-45.png" alt="" class="masonry-content" />
+    </div>
+    <div class="masonry-item">
+      <img src="assets/2019-12-01-20-14-55.png" alt="" class="masonry-content" />
+    </div>
+    <div class="masonry-item">
+      <img src="assets/2019-12-01-20-15-04.png" alt="" class="masonry-content" />
+    </div>
+    <div class="masonry-item">
+      <img src="assets/2019-12-01-20-15-13.png" alt="" class="masonry-content" />
+    </div>
+    <div class="masonry-item">
+      <img src="assets/2019-12-01-20-15-28.png" alt="" class="masonry-content" />
+    </div>
+    <div class="masonry-item">
+      <img src="assets/2019-12-01-20-15-40.png" alt="" class="masonry-content" />
+    </div>
+    <div class="masonry-item">
+      <img src="assets/2019-12-01-20-15-47.png" alt="" class="masonry-content" />
+    </div>
+    <div class="masonry-item">
+      <img src="assets/2019-12-01-20-15-56.png" alt="" class="masonry-content" />
+    </div>
+    <div class="masonry-item">
+      <img src="assets/2019-12-01-20-16-04.png" alt="" class="masonry-content" />
+    </div>
+    <div class="masonry-item">
+      <img src="assets/2019-12-01-20-16-13.png" alt="" class="masonry-content" />
+    </div>
+    <div class="masonry-item">
+      <img src="assets/2019-12-01-20-16-23.png" alt="" class="masonry-content" />
+    </div>
+    <div class="masonry-item">
+      <img src="assets/2019-12-01-20-16-31.png" alt="" class="masonry-content" />
+    </div>
+    <div class="masonry-item">
+      <img src="assets/2019-12-01-20-16-41.png" alt="" class="masonry-content" />
+    </div>
+  </div>
+</div>
+
+[see full survey results](docs/survey-results.html#content)
 
 ## Competitive Analysis IDEO method
 
@@ -117,9 +176,15 @@ While these apps all offer some of the features we believe should make up a prop
 
 ## Try It Yourself IDEO method
 
+
+![](assets/2019-12-01-20-35-05.png)
+<fig> Our researchers home-garden </fig>
+
+
 We used the _Try It Yourself_ IDEO research method to gather more insight into what problems the user might have while using a mobile gardening companion app while doing day to day gardening tasks. Towards this end we let one of our researchers do their daily watering while tasked with using their smartphone as a simulation. This research yielded the following insights:
 
 - When watering plants a large heavy bottle was used that at times takes two hands to pour. It wouldn’t be practicable for somebody to also carry their phone with them while watering. This suggests that any watering tracking/reminder feature needs to happen either before or after the watering has been done, and not during.
+
 
 - We noticed that some of the plants did not need to be watered each day and were skipped that day.
 
@@ -149,7 +214,14 @@ While performing the try it yourself it was hard to imagine how a final mobile a
 
 ## Tasks
 
+{: .circle}
+<div>
+&nbsp;
+</div>
+
 ### Task Descriptions
+
+
 
 1. Veronica is an inexperienced gardener who is looking for help setting up a small flower trough on her apartment balcony. She pulls out her smartphone and starts the Green Thumb app for guidance on how to do so. The app provides a selection of appropriate plants for her to choose from. She does so and now has a virtual twin of her soon-to-be garden.
 
@@ -274,11 +346,8 @@ While performing the try it yourself it was hard to imagine how a final mobile a
 
 ## Report
 
-<object
-  data="\assets\pdfs\Deliverable 3 ppt.pdf?#FitH"
-  width="100%"
-  height="520"
-  type="application/pdf"></object>
+[![](assets/2019-12-01-19-38-00.png) Click to view low fidelity prototype report ](https://docs.google.com/viewer?url=https://jacksoncougar.github.io/CPSC-481/assets/pdfs/Deliverable%203%20ppt.pdf)
+
 
 ## Reflections on Ideating and Prototyping
 
@@ -340,12 +409,26 @@ out ideas though.
   </div>
 </div>
 
-[see storyboard.](docs\storyboard.html)
+### Storyboard 
+
+[![](assets/2019-12-01-19-48-31.png) Click to view complete storyboard ](https://docs.google.com/viewer?url=https://jacksoncougar.github.io/CPSC-481/assets/pdfs/storyboard.pdf)
+
+## Task Centered Design walkthrough
+
+![](assets/2019-12-01-19-45-59.png)
+
+![](assets/2019-12-01-19-46-14.png)
+
+![](assets/2019-12-01-19-46-27.png)
+
 [see TCD walkthrough.](docs\tcd.html)
 
 # High-fidelity prototype
 
-![](assets/2019-12-01-16-56-27.png)
+{: .callout}
+- ![](assets/2019-12-01-16-56-27.png) ![](assets/2019-12-01-19-50-50.png) ![](assets/2019-12-01-19-51-17.png)
+
+    ![](assets/2019-12-01-19-49-41.png)
 
 [Adobe XD high-fidelity prototype](https://xd.adobe.com/view/b0b33424-45c2-44ce-4d53-6a1f7fcbfafb-c682/)
 
@@ -364,9 +447,20 @@ Time is always a constraint for any project, so prioritizing issues is key. More
 The two biggest issues the other team identified were (1) lack of documentation/explanation of functionality and (2) restricted navigation. While we tried to make the functionality of the app match common mobile pardigms, it was useful to hear that others found it confusing. 
 
 1. We thus added more text explanations of the various functions on each page. 
+   
+   ![](assets/2019-12-01-20-43-30.png)
+   <fig>Help text added to many screens</fig>
+
 2. They also noted that there was no easy way to navigate back to the home page. It would take possible several taps of the back button to get home, depending on the page a user is on. To fix this, we made the “Green Thumb” logo on each page clickable for navigation back to the home page.
+   
+   ![](assets/2019-12-01-20-42-32.png)
+   <fig>Clicking on the logo brings you back to the main screen</fig>
+
 
 A third major issue that we identified with the TA was the basic nature of our virtual garden representation. Our brainstorming/ideation had given us the idea of having a full virtual and graphical depiction of a garden with the ability to drag and drop plants and plan the garden. Our lo-fi and initial hi-fi prototypes instead used a simpler rectangular grid representation. The TA Brandon felt that our original idea was more nnovative and that the simpler design dragged down the overall impact of our app. We thus implemented the more detailed and realistic virtual garden.
+
+   ![](assets/2019-12-01-20-44-06.png)
+   <fig> Fully 3d virtual representation of the virtual garden</fig>
 
 There were numerous other issues that ended up being broken/missing links in the Adobe XD project. While these were simple to fix, they were important since they needed to be fixed before submission of deliverable.
 
