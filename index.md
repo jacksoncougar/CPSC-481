@@ -9,7 +9,7 @@ layout: default
 - Lynn (Jiarong Xu)
 - Rory Skipper
 
-
+# Executive Summary
 
 # Design Problem
 
@@ -19,7 +19,7 @@ The solution that we are looking for is one that guides and nurtures interest in
 
 The project is a mobile application called Green Thumb. The application is a gardening assistant. Even growing and taking care of a single plant can be a challenge for a novice gardener, so our application will utilize the full functionality of a modern smartphone to guide and assist users in starting and maintaining a garden.
 
-The app will help users select which plants to grow based on geolocation and responses to some simple questions, such as area available for garden. A list of needed materials (eg. seeds, soil, flower pots, etc.) will be given based on selected plants with links to retailers (eg. Amazon, Canadian Tire) that sell supplies. Step-by-step instructions will be provided for planting along with demonstration videos. The app will maintain a virtual twin of your garden with the ability to add or drop plants as the real world garden changes, with support for multiple gardens (eg. plants in my office at work, seasonal garden in my backyard, year round house plants etc). The app will have a reminder schedule and activity calendar so that the user never forgets to water a plant or weed the garden. If a plant is not growing like it should, a user can query the app for help diagnosing the problem. In short, the app provides all the functionality that a total beginner would need to start growing a few plants but will have a level of customisation to enable more experienced gardeners to curate the assistance they receive.
+The app will help users select which plants to grow based on geolocation and responses to some simple questions, such as area available for garden. A list of needed materials (eg. seeds, soil, flower pots, etc.) will be given based on selected plants with links to retailers (eg. Amazon, Canadian Tire) that sell supplies. Step-by-step instructions will be provided for planting along with demonstration videos. The app will maintain a virtual twin of your garden with the ability to add or drop plants as the real world garden changes, with support for multiple gardens (eg. plants in my office at work, seasonal garden in my backyard, year round house plants etc). The app will have a reminder schedule and activity calendar so that the user never forgets to water a plant or weed the garden. If a plant is not growing like it should, a user can query the app for help diagnosing the problem. In short, the app provides all the functionality that a total beginner would need to start growing a few plants but will have a level of customization to enable more experienced gardeners to curate the assistance they receive.
 
 # End-users and stakeholders
 
@@ -356,11 +356,13 @@ don’t come from an art or design background. Initially there was a bit of a bl
 what we should be sketching. How the app is used? What the layout should be? In the end we
 learned that there is no ‘right’ way to brainstorm and that we should let our minds roam free and
 do many sketches of all aspects of the design.
+
 The task walkthroughs were a useful way to identify problems in the design once we had
 identified which tasks we wanted our app to allow the user to complete. For example, we
 identified a couple of places where we need to make a tradeoff between having more options on
 one screen (could be cluttered or overwhelming) or have a series of screens with nested options
 (could be confusing).
+
 The lo-fi prototyping was an enjoyable process and Balsamiq was very easy to use so we didn’t
 run into too many problems. However, we should have had a clearer idea of how we wanted the
 app to be laid out and flow before starting in Balsamiq. Seeing it in Balsamiq did help us refine
@@ -472,10 +474,13 @@ The feedback we received from the heuristic evaluation was very useful and we ha
 
 # Recommendations for Next Iteration of Design
 
-We include the aesthetic issues raised in the category of suggestions for future projects
-Busy/cluttered main page
-Distracting/overpowering background
-While beauty is in the eye of the beholder, important to take into account broad range of tastes in design
+In the next iteration of the design more emphasis needs to be placed on features that we didn't have time to implement:
+
+- In the future we need to implement better teaching aids such as step-by-step guides. Using the phone camera the user could document their progress and receive feedback on how well they did.
+
+- If the app used AR toolkit a plant inspector feature could be built that uses the camera of the phone to create an augmented view of whatever plant it is looking at and automatically detect and report on any issues that are apparent. For example if the plant is drooping it might detect that it needs to be watered, or if the plant has yellowing leaves it might recommend adding fertilizer during the next watering.
+
+- If the social aspects of the app were opened up more we could leverage the skills and knowledge of our expert users to help tutor and teach newcomers to gardeners by implementing rewards for responding to help posts.
 
 # Conclusions
 
