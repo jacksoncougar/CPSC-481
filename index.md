@@ -148,7 +148,7 @@ A survey was conducted of potential app users. The use of a survey was justified
   </div>
 </div>
 
-[see full survey results](docs/survey-results.html#content)
+[Click to view full survey results.](https://docs.google.com/viewer?url=https://jacksoncougar.github.io/CPSC-481/assets/pdfs/survey-report.pdf)
 
 ## Competitive Analysis IDEO method
 
@@ -423,8 +423,6 @@ out ideas though.
 
 ![](assets/2019-12-01-19-46-27.png)
 
-[see TCD walkthrough.](docs\tcd.html)
-
 # High-fidelity prototype
 
 {: .callout}
@@ -436,6 +434,9 @@ out ideas though.
 
 
 # Heuristic Evaluation and Findings
+
+
+[![](assets/2019-12-01-21-17-45.png) Click to view Heuristic Evaluation report ](https://docs.google.com/viewer?url=https://jacksoncougar.github.io/CPSC-481/assets\pdfs\Deliverable 4 presentation.pptx)
 
 We exchanged prototypes with another team in our tutorial. We evaluated their prototype and they evaluated ours. The idea is to have them test the app out as users would and identify issues. We could then improve our prototype based on their feedback. However, we did not receive their feedback until the afternoon of Nov 24, ie. The day the deliverable was due. Because of this, our ability to fix the issues they identified was essentially nil. However, there was significant overlap between the important issues that they identified and what we found with the help of our TA in the final tutorial before the due date. Even though it was too late to be much help for this deliverable, there is still value in reviewing their feedback for improving the prototype for the final deliverable/presentation and for deepening our understanding of the User Centred Design process.
 
@@ -484,4 +485,6 @@ In the next iteration of the design more emphasis needs to be placed on features
 
 # Conclusions
 
-// todo
+In the end we produced a high-fidelity prototype that showed that our goal of creating an app to introduce people to gardening was not only possible but readily achievable. Going forward we need to take a step back however and re-evaluate what is important to our users. 
+
+From our research we found that most people didn't think they had much time to garden and out app needs to prioritize small allotments of user engagement over micromanagement. We want to make the app fun and engaging for users without taking away from its practicality.
