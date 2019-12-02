@@ -1,6 +1,6 @@
 .callout > li {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 3fr 2fr;
   grid-template-rows: 1fr;
   grid-template-areas: "text image";
 }
@@ -10,11 +10,16 @@
 }
 
 .callout > li p:nth-child(even) {
+  justify-self: right;
+  margin-left: 2em;
   grid-area: image;
 }
 
+.callout p {
+  margin: 0;
+}
+
 .callout img {
-  max-width: 400px;
   max-height: 300px;
 }
 
@@ -47,7 +52,7 @@
 }
 @media only screen and (min-width: 1024px) {
   .masonry {
-    columns: 3;
+    columns: 2;
   }
 }
 .masonry-item, .masonry-content {

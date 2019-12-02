@@ -2,58 +2,58 @@
 layout: default
 ---
 
-# CPSC Team Project
+# Green Thumb
 
-members:
-
-- Brett Gattinger
 - Eric Austin
+- Jackson Cougar Wiebe
 - Lynn (Jiarong Xu)
 - Rory Skipper
-- Jack Wiebe
 
-# Phase 1 - Investigate
 
-## Green Thumb
 
-The idea is an Android/iOS mobile application that functions as a gardening assistant. The app will utilize the full functionality of a modern smartphone to enable even the most green (pun intended) gardener to start and maintain a beautiful home garden, whatever that home may look like. The need for increased urban biodiversity is clear. Converting concrete to greenspace and monoculture lawns to diverse gardens promotes the health of bee populations, takes CO2 out of the atmosphere, and helps keep cities cool (literally). We already see a trend in this direction with new office towers and condos covered in trees and some cities replacing parking lots with parks. However, many more regular citizens will need to participate for this trend to make an impact. But keeping plants alive is not always so easy for the inexperienced, which is where Green Thumb comes in. The app will use the phone’s location data to determine the range of appropriate plants based on temperature, sunshine, and rainfall which is further refined by the answers to a few simple questions to the user, such as area available for planting and the orientation of the garden for sunshine. The user can select the desired plants from this range and the app will provide instructions on how to plant and even provide links for the purchase of the plants and needed extras (soil, watering can, plant food, etc.). Helpful instructional videos and friendly reminders to water will ensure that an amateur gardener can’t go wrong.
+# Design Problem
 
-## Groceries
+The problem that we are trying to design a solution for is how to get people educated and interested in gardening. Not only is gardening great for decreasing stress and general well-being, but by nurturing an interest in nature and growing things we may be able to increase an awareness and respect for nature in society. The current state of the art in mobile apps gives users access to an encyclopedia of knowledge that can be searched on demand. However, the gap here is that there is not enough expert guidance for newcomers who don’t know enough to even know what questions they need answers to!
 
-The idea is a grocery list app that will find the cheapest store to buy from. While it may be tempting to choose convenience over price the bill for groceries is unarguably one of the largest costs for household budgets. Yet with more and more retailers offering online shopping people shouldn’t have to choose between convenience and price, then again not everyone has the time to scour each grocers website and find the best price. “Groceries” solves the last hurdle to convenience by searching the online sites of grocers and creating an easily accessible compendium of price matching and comparisons thus allowing users to quickly and effortlessly determine the best place to buy the products they need most at the best price.
+The solution that we are looking for is one that guides and nurtures interest in growing living things for people of all skills and backgrounds. We propose to create an app that by gathering the user’s data and information can provide personalized advice, and time-sensitive alerts along their journey in gardening.
 
-## Screen Time Control
-
-This is an Android/iOS mobile app that gives parents control over kids screen time remotely. Parents have been trying hard to restrict the amount of time kids spend on their digital devices since kids are getting more and more addicted to electronic devices, but can’t always be present to police their childrens screentime. The study of National Institutes of Health has shown that brain changes among kids using screens more than seven hours a day lead to lower cognitive skills compared to those using screens for more than two hours a day. The purpose of this app is to give you an easy and effective way to keep track of their screen usage. Parents can remotely link to any of the registered devices that their children use, such as their smartphones, tablets and even the home TV or computer, and allows them not only monitor what they are doing with their cell phone, but also set a time limit on certain apps or even blocking them. It also allows you to locate your kids so that you can see their location on the map. Access to the devices can be manually toggled at any time through the controlling users phone or schedules for access which will be automatically enforced can be set in advance.
-Balancing on screen time is becoming a difficult task not only for young kids, but also adults. If you are someone who has addiction spending time on social media, watching videos or playing video games. This app also provides you a chance to use as a time management tool with someone you trust, for example your family, girl/boyfriend etc.
-
-# Phase 2
-
-## Project Description
-
-The project is a mobile application, specifically an iOS/Android app, tentatively called Green Thumb. The application is a gardening assistant. Even growing and taking care of a single plant can be a challenge for a novice gardener, so our application will utilize the full functionality of a modern smartphone to guide and assist users in starting and maintaining a garden.
+The project is a mobile application called Green Thumb. The application is a gardening assistant. Even growing and taking care of a single plant can be a challenge for a novice gardener, so our application will utilize the full functionality of a modern smartphone to guide and assist users in starting and maintaining a garden.
 
 The app will help users select which plants to grow based on geolocation and responses to some simple questions, such as area available for garden. A list of needed materials (eg. seeds, soil, flower pots, etc.) will be given based on selected plants with links to retailers (eg. Amazon, Canadian Tire) that sell supplies. Step-by-step instructions will be provided for planting along with demonstration videos. The app will maintain a virtual twin of your garden with the ability to add or drop plants as the real world garden changes, with support for multiple gardens (eg. plants in my office at work, seasonal garden in my backyard, year round house plants etc). The app will have a reminder schedule and activity calendar so that the user never forgets to water a plant or weed the garden. If a plant is not growing like it should, a user can query the app for help diagnosing the problem. In short, the app provides all the functionality that a total beginner would need to start growing a few plants but will have a level of customisation to enable more experienced gardeners to curate the assistance they receive.
 
-## Stakeholders
+# End-users and stakeholders
 
-- Users with no gardening experience - these users will need lots of hand-holding throughout the process and will rely heavily on information provided and reminders.
+{: .callout}
+-	Newcomers to gardening like young adults who are looking to grow plants recreationally. These people might not have any prior knowledge about gardening, but they are willing to try it if they feel like they have the advice and guidance to succeed.
+  
+    ![](assets/2019-12-01-18-34-47.png)
 
-- Users with gardening experience - these users already have a good grasp of gardening and will only need to reference the certain needs or perhaps the reminders.
+-	Intermediate gardeners who already have some prior experience but are seeking to get better at gardening. These users know the basics but are looking for best-practices or expert advice. They may be looking to try growing something new or more challenging and need guidance to take the leap.
 
-- Retailers who partner with the app to sell gardening supplies - these partners will get a potential stream of customers and in exchange should be willing to offer discounts or promotions. Data privacy concerns in this relationship.
+    ![](assets/2019-12-01-18-35-11.png)
 
-- Community garden associations - these users will not directly manage a garden but might interact with other users of the garden such as issuing watering reminders, supplying advice, or providing other services to gardeners.
+-	Expert gardeners and community gardeners. These people might have more knowledge about gardening, but what sets them apart from the others is that they want to grow on a larger scale. These people need help arranging large garden beds and require advice about what types of plants will grow best with others.
 
-- App developers who have to implement features - the developers are actually responsible for implementing this idea so our proposed features must be plausibly realizable.
+    ![](assets/2019-12-01-18-35-28.png)
 
-## Research Methods
+-	Developers who will implement the application must be able to produce the final application. These people require that we don’t create an application that is impossible to produce in a reasonable span of time.
 
-### Extreme User Interviews
+    ![](assets/2019-12-01-18-36-03.png)
+
+-	Retailers of garden supplies and seeds would have a stake in the success of our app and may want to partner with us to provide sales, curate advice, or offer expert reviews.
+
+    ![](assets/2019-12-01-18-36-33.png)
+
+
+# User Research and Findings
+
+## Extreme User Interviews
 
 Interviews were conducted with gardeners from all ranges of age and experience. We learned a lot about what gardeners consider important such as growing organic foods, using fewer chemical fertilizers, or getting schedules for when to harvest from their garden.
 
 These extreme user interviews highlighted the difference between those who didn’t garden in the past (or had very little experience) and those who were more knowledgeable. Something that was really interesting to note from the expert gardeners was that they aim to only plant things that feed the bees or the birds. This is to help support the ever-lowering bee population which people aren’t paying enough attention to. This and a couple other things like annual vs perennial plants and which plants like fertilizer helped us to better understand what information our app could help beginner gardeners with. Especially in the process of placing plants, our app could show in the virtual garden the radius in which the plant will eventually grow to, so that gardeners won’t mistakenly grow plants too close to one another.
+
+Below is a listing of recording for all interviews conducted:
 
 - A interview
 
@@ -85,13 +85,13 @@ These extreme user interviews highlighted the difference between those who didn�
   <p>Your browser does not support the audio element.</p>
   </audio>
 
-### Survey
+## Survey
 
 A survey was conducted of potential app users. The use of a survey was justified as it is a cheap, uniform way to get some important basic data about prospective users. The survey was shared online with one set of questions for respondents indicating no gardening experience and another set of questions for those indicating some gardening experience. Both groups identified lack of knowledge and forgetting to care for plants as the biggest obstacles, but non-experienced gardeners also thought lack of time would be a hurdle as well. These are all areas where our app would help. Both groups thought gardening is/would be not easy and are only willing to spend a small amount of money or time on the activity, although most did express an interest in an app that could help them with growing plants.
 
 [see survey results](docs/survey-results.html#content)
 
-### Competitive Analysis IDEO method
+## Competitive Analysis IDEO method
 
 We downloaded and tried a selection of existing gardening apps to get an idea of what has been done and what works well.
 
@@ -115,7 +115,7 @@ We downloaded and tried a selection of existing gardening apps to get an idea of
 
 While these apps all offer some of the features we believe should make up a proper gardening assistant, none had them all and many key features were missing. Ease-of-use was the biggest issue with these apps and will be a big challenge in designing our app given the number of features we are planning on including.
 
-### Try It Yourself IDEO method
+## Try It Yourself IDEO method
 
 We used the _Try It Yourself_ IDEO research method to gather more insight into what problems the user might have while using a mobile gardening companion app while doing day to day gardening tasks. Towards this end we let one of our researchers do their daily watering while tasked with using their smartphone as a simulation. This research yielded the following insights:
 
@@ -147,7 +147,7 @@ The competitive analysis was easier to do. It could be split among the team memb
 
 While performing the try it yourself it was hard to imagine how a final mobile app would be used at the same time as watering or harvesting from a garden. Either the tasks are so physically demanding that they cannot be done while holding a phone, or the phone needs to be placed on the ground where it might get water or dirt on it. It was hard to think outside the box while doing try it yourself when we already had a rigid idea of what the application would do.
 
-## Task List
+## Tasks
 
 ### Task Descriptions
 
@@ -264,7 +264,7 @@ While performing the try it yourself it was hard to imagine how a final mobile a
   </tr>
 </table>
 
-# Phase 3 - Creating a low-fidelity prototype
+# Design and Justification
 
 ## low fidelity prototype
 
@@ -303,30 +303,39 @@ out ideas though.
   <div class="masonry">
     <div class="masonry-item">
       <img src="assets/2019-12-01-15-34-35.png" alt="Dummy Image" class="masonry-content" />
+      <fig>Watering reminders</fig>
     </div>
     <div class="masonry-item">
       <img src="assets/2019-12-01-15-34-47.png" alt="Dummy Image" class="masonry-content" />
+      <fig>Watering alerts bsaed on weather</fig>
     </div>
     <div class="masonry-item">
       <img src="assets/2019-12-01-15-35-06.png" alt="Dummy Image" class="masonry-content" />
+      <fig>Step by step planting advice</fig>
     </div>
     <div class="masonry-item">
       <img src="assets/2019-12-01-15-35-45.png" alt="Dummy Image" class="masonry-content" />
+      <fig>Virtual reality repreesntation of garden with interactive avatars.</fig>
     </div>
     <div class="masonry-item">
       <img src="assets/2019-12-01-15-35-58.png" alt="Dummy Image" class="masonry-content" />
+      <fig>Clean aesthetic</fig>
     </div>
     <div class="masonry-item">
       <img src="assets/2019-12-01-15-36-12.png" alt="Dummy Image" class="masonry-content" />
+      <fig>Help and advice</fig>
     </div>
     <div class="masonry-item">
       <img src="assets/rory sketch.jpg" alt="Dummy Image" class="masonry-content" />
+      <fig>Watering history and reminders</fig>
     </div>
     <div class="masonry-item">
       <img src="assets/rory sketch 2.jpg" alt="Dummy Image" class="masonry-content" />
+      <fig>Recommendations based on individualized data</fig>
     </div>
     <div class="masonry-item">
       <img src="assets/lynn sketches.jpeg" alt="Dummy Image" class="masonry-content" />
+      <fig>Various interactions</fig>
     </div>
   </div>
 </div>
@@ -334,4 +343,46 @@ out ideas though.
 [see storyboard.](docs\storyboard.html)
 [see TCD walkthrough.](docs\tcd.html)
 
-# Phase 4
+# High-fidelity prototype
+
+![](assets/2019-12-01-16-56-27.png)
+
+[Adobe XD high-fidelity prototype](https://xd.adobe.com/view/b0b33424-45c2-44ce-4d53-6a1f7fcbfafb-c682/)
+
+
+# Heuristic Evaluation and Findings
+
+We exchanged prototypes with another team in our tutorial. We evaluated their prototype and they evaluated ours. The idea is to have them test the app out as users would and identify issues. We could then improve our prototype based on their feedback. However, we did not receive their feedback until the afternoon of Nov 24, ie. The day the deliverable was due. Because of this, our ability to fix the issues they identified was essentially nil. However, there was significant overlap between the important issues that they identified and what we found with the help of our TA in the final tutorial before the due date. Even though it was too late to be much help for this deliverable, there is still value in reviewing their feedback for improving the prototype for the final deliverable/presentation and for deepening our understanding of the User Centred Design process.
+
+Time is always a constraint for any project, so prioritizing issues is key. More important issues should be fixed first and less important issues can wait. We can thus categorize the identified issues into three broad categories:
+- Important – must be fixed before submitting prototype
+- Less important – can wait to be fixed for the final deliverable
+- Suggestions for future projects – lessons to keep in mind for our next design project
+
+# The design changes that made based on the heuristic evaluation
+
+The two biggest issues the other team identified were (1) lack of documentation/explanation of functionality and (2) restricted navigation. While we tried to make the functionality of the app match common mobile pardigms, it was useful to hear that others found it confusing. 
+
+1. We thus added more text explanations of the various functions on each page. 
+2. They also noted that there was no easy way to navigate back to the home page. It would take possible several taps of the back button to get home, depending on the page a user is on. To fix this, we made the “Green Thumb” logo on each page clickable for navigation back to the home page.
+
+A third major issue that we identified with the TA was the basic nature of our virtual garden representation. Our brainstorming/ideation had given us the idea of having a full virtual and graphical depiction of a garden with the ability to drag and drop plants and plan the garden. Our lo-fi and initial hi-fi prototypes instead used a simpler rectangular grid representation. The TA Brandon felt that our original idea was more nnovative and that the simpler design dragged down the overall impact of our app. We thus implemented the more detailed and realistic virtual garden.
+
+There were numerous other issues that ended up being broken/missing links in the Adobe XD project. While these were simple to fix, they were important since they needed to be fixed before submission of deliverable.
+
+There were two main issues in the “Less Important” category: non-clickable elements on the main page, and lack of undo/redo. These would be nice to fix/implement given the time.
+
+The category of “Suggestions for future projects” consists of the aesthetic issues raised by the heuristic evaluation. The two main ones were that the main page was busy/cluttered and that the background image was distracting and visually overpowering. While these issues are very subjective (we quite like the background image and find the main page does a good job of presenting some relevant information) it is important to consider many different opinions since we hope to have many different users.
+
+The feedback we received from the heuristic evaluation was very useful and we have already made some improvements based on the feedback. It was unfortunate that we received the feedback on the same day the deliverable was due and couldn’t take full advantage of it.
+
+# Recommendations for Next Iteration of Design
+
+We include the aesthetic issues raised in the category of suggestions for future projects
+Busy/cluttered main page
+Distracting/overpowering background
+While beauty is in the eye of the beholder, important to take into account broad range of tastes in design
+
+# Conclusions
+
+// todo
